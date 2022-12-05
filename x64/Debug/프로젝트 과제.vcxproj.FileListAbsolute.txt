@@ -1,0 +1,3 @@
+C:\Users\luzun\OneDrive\문서\대학\전공\프로젝트 과제\x64\Debug\프로젝트 과제.exe
+C:\Users\동훈\Desktop\프로젝트 과제\x64\Debug\프로젝트 과제.exe
+C:\Users\동훈\Desktop\WorkOutProject\x64\Debug\Finalpj.exe
